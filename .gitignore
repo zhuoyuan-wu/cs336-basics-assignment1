@@ -1,0 +1,11 @@
+data/
+*.bin
+*.txt
+*.gz
+checkpoints/
+*.pt
+__pycache__/
+*.pyc
+.pytest_cache/
+*.egg-info/
+*.egg-info/
